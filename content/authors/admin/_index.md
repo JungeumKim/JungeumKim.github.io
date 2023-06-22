@@ -42,6 +42,6 @@ status:
 superuser: true
 title: Jungeum Kim 김정음
 ---
-
-Jungeum Kim is a Principal Researcher working with Professor Rockova at the University of Chicago Booth School of Business. She received her Ph.D. degree from Purdue University under the supervision of Dr. Xiao Wang. In her dissertation, she studied three important problems in modern deep learning: adversarial robustness, dimensional reduction for visualization (manifold learning), and modeling of partially monotonic functions. Additionally, she has worked on generative models such as generative adversarial networks, variational autoencoders, and energy-based models. Prior to her Ph.D., she obtained her Master's and Bachelor's degrees from Seoul National University, where she worked on robust PCA under the supervision of Dr. Hee-seok Oh.
+This webpage is still in construction. 
+#Jungeum Kim is a Principal Researcher working with Professor Rockova at the University of Chicago Booth School of Business. She received her Ph.D. degree from Purdue University under the supervision of Dr. Xiao Wang. In her dissertation, she studied three important problems in modern deep learning: adversarial robustness, dimensional reduction for visualization (manifold learning), and modeling of partially monotonic functions. Additionally, she has worked on generative models such as generative adversarial networks, variational autoencoders, and energy-based models. Prior to her Ph.D., she obtained her Master's and Bachelor's degrees from Seoul National University, where she worked on robust PCA under the supervision of Dr. Hee-seok Oh.
 {style="text-align: justify;"}

@@ -4,7 +4,7 @@ sections:
 
 - block: about.biography
   content:
-    title: Biography
+    title: About Me
     username: admin
   id: about
 
