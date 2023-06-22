@@ -21,7 +21,7 @@ sections:
     filters:
       folders:
       - project
-    title: Projects
+    title: Working Paper
   design:
     columns: "1"
     flip_alt_rows: false
@@ -38,11 +38,11 @@ sections:
       {{% callout note %}}
       Quickly discover relevant content by [filtering publications](./publication/).
       {{% /callout %}}
-    title: Recent Publications
+    title: Publications
   design:
     columns: "2"
     view: citation
-
+  
 
 - block: contact
   content:
