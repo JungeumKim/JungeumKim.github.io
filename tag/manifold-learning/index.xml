@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Manifold learning | Jungeum Kim</title>
+    <link>https://jungeumkim.github.io/tag/manifold-learning/</link>
+      <atom:link href="https://jungeumkim.github.io/tag/manifold-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manifold learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jungeumkim.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Manifold learning</title>
+      <link>https://jungeumkim.github.io/tag/manifold-learning/</link>
+    </image>
+    
+    <item>
+      <title>Bridging the gap between human and computer vision in machine learning, adversarial and manifold learning for high-dimensional data</title>
+      <link>https://jungeumkim.github.io/publication/journal-article3/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jungeumkim.github.io/publication/journal-article3/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

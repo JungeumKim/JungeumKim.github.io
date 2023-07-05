@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Jungeum Kim</title>
+    <link>https://jungeumkim.github.io/publication/</link>
+      <atom:link href="https://jungeumkim.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jungeumkim.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://jungeumkim.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>On Mixing Rates for Bayesian CART</title>
+      <link>https://jungeumkim.github.io/publication/journal-article2/</link>
+      <pubDate>Sun, 07 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jungeumkim.github.io/publication/journal-article2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Sensible Adversarial Learning of Deep Neural Networks for Image Classification</title>
+      <link>https://jungeumkim.github.io/publication/journal-article/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://jungeumkim.github.io/publication/journal-article/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging the gap between human and computer vision in machine learning, adversarial and manifold learning for high-dimensional data</title>
+      <link>https://jungeumkim.github.io/publication/journal-article3/</link>
+      <pubDate>Thu, 07 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://jungeumkim.github.io/publication/journal-article3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Unified Framework of Robust PCA - Use of Robust Unit Approach</title>
+      <link>https://jungeumkim.github.io/publication/journal-article4/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://jungeumkim.github.io/publication/journal-article4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://jungeumkim.github.io/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://jungeumkim.github.io/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
