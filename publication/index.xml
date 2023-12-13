@@ -5,12 +5,20 @@
     <link>https://jungeumkim.github.io/publication/</link>
       <atom:link href="https://jungeumkim.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 May 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://jungeumkim.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>https://jungeumkim.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Deep Bayes Factors</title>
+      <link>https://jungeumkim.github.io/publication/journal-article5/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jungeumkim.github.io/publication/journal-article5/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>On Mixing Rates for Bayesian CART</title>

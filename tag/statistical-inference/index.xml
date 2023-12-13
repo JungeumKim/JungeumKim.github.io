@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Statistical Inference | Jungeum Kim</title>
+    <link>https://jungeumkim.github.io/tag/statistical-inference/</link>
+      <atom:link href="https://jungeumkim.github.io/tag/statistical-inference/index.xml" rel="self" type="application/rss+xml" />
+    <description>Statistical Inference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://jungeumkim.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Statistical Inference</title>
+      <link>https://jungeumkim.github.io/tag/statistical-inference/</link>
+    </image>
+    
+    <item>
+      <title>Deep Bayes Factors</title>
+      <link>https://jungeumkim.github.io/publication/journal-article5/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://jungeumkim.github.io/publication/journal-article5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
